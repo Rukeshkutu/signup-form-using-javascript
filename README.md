@@ -1,6 +1,6 @@
 # signup-form-using-javascript
 
-In this, uses HTML, CSS and Javascript
+In this, uses Javascript, HTML,and CSS 
 HTML and CSS for webpage design and Javascript for the dynamic output
 
 Here if the form is empty then form display message "Form cannot be empty" and show red color in the border of the form
